@@ -1,4 +1,4 @@
 test
 
-func A
+Func A
 Func B
